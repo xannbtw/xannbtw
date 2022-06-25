@@ -1,16 +1,18 @@
-### Hi there 👋
-
-<!--
-**xannbtw/xannbtw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```css
+[xannbtw@archlinux ~]$ neofetch
+                    -@                    xannbtw@archlinux
+                   .##@                   -----------------
+                  .####@                  Username: Xann
+                  @#####@                 Discord: xann wrld#9953
+                . *######@                
+               .##@o@#####@               Css: 5/10
+              /############@              Html: 5/10
+             /##############@             Python: 7/10
+            @######@**%######@            Javascript: 5/10
+           @######`     %#####o           
+          @######@       ######%          
+        -@#######h       ######@.`        
+       /#####h**``       `**%@####@       
+      @H@*`                    `*%#@    
+     *`                            `*
+```
