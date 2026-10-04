@@ -1,5 +1,5 @@
 ```text
-[xannbtw@archlinux ~]$ neofetch
+[xannbtw@archlinux ~]$ fastfetch
                -`                    xannbtw@archlinux
               .o+`                   -----------------
              `ooo/                   Role: IT Student @ USM | Backend & Frontend Dev
