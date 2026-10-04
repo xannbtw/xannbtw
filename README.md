@@ -8,7 +8,7 @@
            -+oooooo+:                Frontend: HTML, CSS, Bootstrap, Vue.js
          `/:-:++oooo+:               Environment: Linux (Arch, Parrot OS, Ubuntu)
         `/++++/+++++++:              Interests: Cybersecurity & E-commerce Tech
-       `/++++++++++++++:             Discord: xann wr ld#9953
+       `/++++++++++++++:             
       `/+++ooooooooooooo/`      
      ./ooosssso++osssssso+`     
     .oossssso-````/ossssss+`    
